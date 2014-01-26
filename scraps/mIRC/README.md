@@ -1,0 +1,1 @@
+mIRC scripts. Any of them, as long as they meet the license requirements set by this GPL project. Chances are most mIRC scripts are not going to make the cut in this project. Original project-specific content is desirable, but anything is a start.
